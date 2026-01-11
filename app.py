@@ -170,8 +170,8 @@ for r in range(1, int(num_rondas) + 1):
         raw = st.text_area(
             "Pega aquí la ronda (2 líneas)",
             height=110,
-            placeholder=f"""{r}. 🥋🧶🐹♓
-🪼🧣🍃🐥🐞🌙😩""",
+            placeholder=f"""{r}. 🥇🥈🥉🏅
+🎖️(🏵️🎗️)""",
             key=f"txt_{r}",
         )
 
